@@ -1,0 +1,10 @@
+section {
+    font-size: 1.2rem;
+    display: flex;
+    gap: 90px;
+}
+
+section>section>img {
+    border-radius: 14px;
+}
+

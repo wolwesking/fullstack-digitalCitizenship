@@ -1,0 +1,14 @@
+section {
+    font-size: 1.2rem;
+}
+
+.protect>div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.protect>div>section {
+    display: flex;
+    gap: 90px;
+    border-radius: 5px;
+}
